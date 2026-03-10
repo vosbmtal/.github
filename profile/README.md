@@ -1,50 +1,86 @@
 <div align="center">
-  <img src="https://sinav.vosb.k12.tr/logo.svg" alt="Veliköy OSB MTAL" width="80" />
 
-  <h1>Veliköy OSB MTAL</h1>
-  <p><strong>Veliköy Organize Sanayi Bölgesi Mesleki ve Teknik Anadolu Lisesi</strong></p>
+<img src="https://sinav.vosb.k12.tr/logo.svg" alt="Veliköy OSB MTAL" width="88" />
 
-  [![Website](https://img.shields.io/badge/web-vosb.k12.tr-0d9488?style=flat-square&logo=google-chrome&logoColor=white)](https://vosb.k12.tr)
-  [![E-posta](https://img.shields.io/badge/e--posta-bilgi@vosb.k12.tr-f59e0b?style=flat-square&logo=gmail&logoColor=white)](mailto:bilgi@vosb.k12.tr)
-  [![Konum](https://img.shields.io/badge/konum-Türkiye-dc2626?style=flat-square&logo=googlemaps&logoColor=white)](#)
+# Veliköy OSB MTAL
+
+**Veliköy Organize Sanayi Bölgesi Mesleki ve Teknik Anadolu Lisesi**  
+Çerkezköy · Tekirdağ · Türkiye
+
+[![Web](https://img.shields.io/badge/vosb.k12.tr-0d9488?style=flat-square&logo=google-chrome&logoColor=white)](https://vosb.k12.tr)
+[![Instagram](https://img.shields.io/badge/@velikoyosbmtal-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/velikoyosbmtal)
+[![Twitter](https://img.shields.io/badge/@velkyosb-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/velkyosb)
+[![E-posta](https://img.shields.io/badge/bilgi@vosb.k12.tr-f59e0b?style=flat-square&logo=gmail&logoColor=white)](mailto:bilgi@vosb.k12.tr)
+
 </div>
 
 ---
 
 ## Hakkımızda
 
-Biz, Türkiye'nin Tekirdağ iline bağlı Büyükçekmece sınırlarında faaliyet gösteren **Veliköy Organize Sanayi Bölgesi Mesleki ve Teknik Anadolu Lisesi**yiz.
+Veliköy OSB MTAL, Tekirdağ'ın Çerkezköy ilçesindeki **Veliköy Organize Sanayi Bölgesi** bünyesinde, sanayi ile eğitimi buluşturmak amacıyla kurulmuş bir Mesleki ve Teknik Anadolu Lisesidir. Temel atma töreni 2019 yılında gerçekleştirilmiş, okul 2020 yılında öğrencilerini kabul etmeye başlamıştır.
 
-Meslek alanlarında nitelikli bireyler yetiştirmeyi hedefleyen okulumuz, teknoloji entegrasyonu ve dijital dönüşüm alanında aktif çalışmalar yürütmektedir. Bu GitHub organizasyonu, okulumuzda geliştirilen açık kaynaklı araç ve projelerin yayınlandığı resmi alandır.
+Okulumuz; bölgenin ihtiyaç duyduğu nitelikli ara teknik eleman yetiştirme misyonuyla, sanayi kuruluşlarıyla güçlü iş birlikleri kurarak uygulamalı mesleki eğitim sunmaktadır.
 
 ---
 
-## Projeler
+## Meslek Alanları
+
+| Alan | Açıklama |
+|------|----------|
+| ⚗️ **Kimya Teknolojisi** | Kimyasal süreçler, laboratuvar uygulamaları ve endüstriyel kimya |
+| ⚙️ **Makine Teknolojisi** | Makine tasarımı, imalat süreçleri ve teknik resim |
+| 🤖 **Endüstriyel Otomasyon Teknolojileri** | PLC, sensör sistemleri ve otomasyon uygulamaları |
+| 🧱 **Plastik Teknolojisi** | Polimer işleme, kalıp ve üretim teknikleri |
+| 🔩 **Metal Teknolojisi** | Metal işleme, kaynak ve CNC uygulamaları |
+
+---
+
+## Rakamlarla Okulumuz
+
+<table>
+  <tr>
+    <td align="center"><strong>2020</strong><br><sub>Kuruluş yılı</sub></td>
+    <td align="center"><strong>~600</strong><br><sub>Öğrenci</sub></td>
+    <td align="center"><strong>~47</strong><br><sub>Öğretmen</sub></td>
+    <td align="center"><strong>5</strong><br><sub>Meslek alanı</sub></td>
+    <td align="center"><strong>23</strong><br><sub>Derslik</sub></td>
+  </tr>
+</table>
+
+---
+
+## Projeler & Başarılar
+
+- 🏆 **TÜBİTAK 2204-A** — Lise Öğrencileri Araştırma Projeleri Yarışması İstanbul Avrupa Bölge Finalisti
+- 🌍 **ERASMUS+ VED** — Akreditasyon projesiyle uluslararası mesleki eğitim iş birlikleri
+- 🌐 **e-Twinning** — Aktif uluslararası okul ortaklık projeleri
+- ✈️ **Boeing** — Okul sponsoru olarak stratejik sanayi iş birliği
+- 📚 **MESEM** — 34 alanda 184 dalda mesleki eğitim merkezi faaliyeti
+
+---
+
+## Açık Kaynak Projelerimiz
 
 | Proje | Açıklama | Bağlantı |
-|---|---|---|
-| 📅 **Sınav Takvimi** | 2. Dönem 1. Yazılı Sınavları için interaktif takvim — CSS Grid görünümü, sınıf filtresi, anlık geri sayım | [sinav-takvimi](https://github.com/vosbmtal/sinav-takvimi) |
-
----
-
-## Teknoloji Alanları
-
-```
-🌐  Web Geliştirme      HTML · CSS · JavaScript
-🎨  Arayüz Tasarımı     Responsive Design · CSS Grid · Dark Mode
-📊  Veri Görselleştirme Takvim · Tablo · Filtreleme
-```
+|-------|----------|----------|
+| 📅 **Sınav Takvimi** | 2. Dönem 1. Yazılı Sınavları için interaktif takvim — CSS Grid görünümü, sınıf filtresi ve anlık geri sayım | [vosbmtal/sinav-takvimi](https://github.com/vosbmtal/sinav-takvimi) |
 
 ---
 
 ## İletişim
 
-- 🌍 **Web:** [vosb.k12.tr](https://vosb.k12.tr)
-- 📧 **E-posta:** [bilgi@vosb.k12.tr](mailto:bilgi@vosb.k12.tr)
-- 📍 **Konum:** Türkiye
+| | |
+|---|---|
+| 🌍 Web | [vosb.k12.tr](https://vosb.k12.tr) |
+| 📧 E-posta | [bilgi@vosb.k12.tr](mailto:bilgi@vosb.k12.tr) |
+| 📞 Telefon | [+90 282 227 5962](tel:+902822275962) |
+| 📍 Adres | Veliköy OSB Mah. 12. Cad. No:6/1, Çerkezköy / Tekirdağ |
+| 📸 Instagram | [@velikoyosbmtal](https://instagram.com/velikoyosbmtal) |
+| 🐦 X / Twitter | [@velkyosb](https://x.com/velkyosb) |
 
 ---
 
 <div align="center">
-  <sub>© 2026 Veliköy OSB MTAL — Tüm hakları saklıdır.</sub>
+  <sub>© 2026 Veliköy OSB MTAL — <a href="https://vosb.k12.tr">vosb.k12.tr</a></sub>
 </div>
