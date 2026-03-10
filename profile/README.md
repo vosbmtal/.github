@@ -55,7 +55,7 @@ Okulumuz; bölgenin ihtiyaç duyduğu nitelikli ara teknik eleman yetiştirme mi
 - 🏆 **TÜBİTAK 2204-A** — Lise Öğrencileri Araştırma Projeleri Yarışması İstanbul Avrupa Bölge Finalisti
 - 🌍 **ERASMUS+ VED** — Akreditasyon projesiyle uluslararası mesleki eğitim iş birlikleri
 - 🌐 **e-Twinning** — Aktif uluslararası okul ortaklık projeleri
-- 🤖 **FRC Takımı G.O.A.T. #8092** — Okulumuz bünyesindeki FIRST Robotics Competition takımı; Boeing sponsorluğunda uluslararası robot yarışmalarına katılmaktadır → [goat-8092](https://github.com/goat-8092) · [8092.tr](https://8092.tr)
+- 🤖 **FRC Takımı G.O.A.T. #8092** — Okulumuz bünyesindeki FIRST Robotics Competition takımı; Boeing ve Siemens sponsorluğunda uluslararası robot yarışmalarına katılmaktadır → [goat-8092](https://github.com/goat-8092) · [8092.tr](https://8092.tr)
 - 📚 **MESEM** — 34 alanda 184 dalda mesleki eğitim merkezi faaliyeti
 
 ---
