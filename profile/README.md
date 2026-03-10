@@ -64,6 +64,7 @@ Okulumuz; bölgenin ihtiyaç duyduğu nitelikli ara teknik eleman yetiştirme mi
 | Proje | Açıklama | Bağlantı |
 |-------|----------|----------|
 | 📅 **Sınav Takvimi** | 2. Dönem 1. Yazılı Sınavları için interaktif takvim — CSS Grid görünümü, sınıf filtresi ve anlık geri sayım | [vosbmtal/sinav-takvimi](https://github.com/vosbmtal/sinav-takvimi) |
+| 🌐 **vosb.k12.tr Worker** | `vosb.k12.tr` → `velikoyosb.meb.k12.tr` reverse proxy — Cloudflare Workers üzerinde çalışır | [vosbmtal/vosb-k12-tr](https://github.com/vosbmtal/vosb-k12-tr) |
 | 🤖 **G.O.A.T. #8092** | Okulumuzun FRC robotik takımı — robot kodu, tasarım dosyaları ve yarışma arşivi | [goat-8092](https://github.com/goat-8092) |
 
 ---
