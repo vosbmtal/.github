@@ -9,7 +9,6 @@
 
 [![Web](https://img.shields.io/badge/vosb.k12.tr-0d9488?style=flat-square&logo=google-chrome&logoColor=white)](https://vosb.k12.tr)
 [![Instagram](https://img.shields.io/badge/@velikoyosbmtal-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/velikoyosbmtal)
-[![Twitter](https://img.shields.io/badge/@velkyosb-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/velkyosb)
 [![E-posta](https://img.shields.io/badge/bilgi@vosb.k12.tr-f59e0b?style=flat-square&logo=gmail&logoColor=white)](mailto:bilgi@vosb.k12.tr)
 
 </div>
@@ -78,7 +77,6 @@ Okulumuz; bölgenin ihtiyaç duyduğu nitelikli ara teknik eleman yetiştirme mi
 | 📞 Telefon | [+90 282 227 5962](tel:+902822275962) |
 | 📍 Adres | Veliköy OSB Mah. 12. Cad. No:6/1, Çerkezköy / Tekirdağ |
 | 📸 Instagram | [@velikoyosbmtal](https://instagram.com/velikoyosbmtal) |
-| 🐦 X / Twitter | [@velkyosb](https://x.com/velkyosb) |
 
 ---
 
