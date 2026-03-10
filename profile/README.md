@@ -23,7 +23,7 @@ Meslek alanlarında nitelikli bireyler yetiştirmeyi hedefleyen okulumuz, teknol
 
 | Proje | Açıklama | Bağlantı |
 |---|---|---|
-| 📅 **Sınav Takvimi** | 1. Dönem Ortak Sınavları için interaktif takvim — CSS Grid görünümü, sınıf filtresi, anlık geri sayım | [sinav-takvimi](https://github.com/vosbmtal/sinav-takvimi) |
+| 📅 **Sınav Takvimi** | 2. Dönem 1. Yazılı Sınavları için interaktif takvim — CSS Grid görünümü, sınıf filtresi, anlık geri sayım | [sinav-takvimi](https://github.com/vosbmtal/sinav-takvimi) |
 
 ---
 
